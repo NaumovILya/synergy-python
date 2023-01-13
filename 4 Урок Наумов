@@ -1,0 +1,6 @@
+1. Рассмотреть StreamingHttpResponse и объяснить для чего он нужен
+2. Вывод файла на страницу через FileResponse
+3. Дополнительные аргументы в FileResponse
+4. Json. JsonResponse
+5. HTML. Создание страницы index.html
+6. Вывод страницы
